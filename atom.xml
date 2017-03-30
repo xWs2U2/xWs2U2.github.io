@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Evil</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://xWs2U2.github.io/"/>
+  <updated>2017-03-28T13:39:57.280Z</updated>
+  <id>https://xWs2U2.github.io/</id>
+  
+  <author>
+    <name>Evil</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>人生思考</title>
+    <link href="https://xWs2U2.github.io/posts/2017/03/28/why/"/>
+    <id>https://xWs2U2.github.io/posts/2017/03/28/why/</id>
+    <published>2017-03-28T13:08:35.000Z</published>
+    <updated>2017-03-28T13:39:57.280Z</updated>
+    
+    <content type="html"><![CDATA[<p>人为什么活着？<br>活着的意义是什么？<br>害怕失去，那么从一开始就不要得到。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;人为什么活着？&lt;br&gt;活着的意义是什么？&lt;br&gt;害怕失去，那么从一开始就不要得到。&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
